@@ -50,7 +50,7 @@ int main()
 
     float f1, f2, f3;
 
-    cout << "\nВведіть дійсні числа:" << endl;
+    cout << "Введіть дійсні числа:" << endl;
 
     cout << "f1 = ";
     cin >> f1;
@@ -68,7 +68,7 @@ int main()
 
     char c1, c2, c3;
 
-    cout << "\nВведіть символи:" << endl;
+    cout << "Введіть символи:" << endl;
 
     cout << "c1 = ";
     cin >> c1;
